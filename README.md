@@ -3,9 +3,9 @@
 
 ## Teknologjitë e përdorura
 
-(Swift 5.4.2)
+Swift 5.4.2
 
-(Version 12.5.1)
+Xcode 12.5.1
 
 
 ## Kërkesat teknike të projektit
