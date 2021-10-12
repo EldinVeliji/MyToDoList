@@ -1,5 +1,3 @@
-## MyToDoList
-
 ## Përshkrimi i aplikacionit
 
 
