@@ -31,7 +31,7 @@ Aplkacioni duhet të:
 |    Shtimi dhe ruajtja e nje ToDo   | Rishikimi dhe fshirja e ToDo |
 
 ### Anëtarët e grupit
-[Bleona Zenelaj](https://github.com/BleonaZenelaj)
+
 [Eldin Veliji](https://github.com/EldinVeliji)
 
 [Bleona Zenelaj](https://github.com/BleonaZenelaj)
