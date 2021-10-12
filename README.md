@@ -1,5 +1,12 @@
 ## Përshkrimi i aplikacionit
 
+Me anë të aplikacionit MyToDolist do të keni mundësi që të shënoni krejt detyrat juaja që i keni mbrenda ditës ose edhe gjatë tërë javës, me anë të kalendarit, mund të caktoni detyrat kur të doni.
+
+Aplikacioni mund t'i kryejë këto detyra:
+
+* Shtimi i një ToDo liste.
+* Fshimi i një ToDo liste.
+* Caktimi i datës dhe kohës kur doni që të kryhet task-u.
 
 ## Teknologjitë e përdorura
 
