@@ -11,9 +11,9 @@
 Aplkacioni duhet të:
 
 *	Ketë më shumë se një view
-  *	Mainview
-  *	entryview
-  *	viewview
+       *	Mainview
+       *	entryview
+       *	viewview
 * Mundesojë kalimin nga një view në tjetrën(at)
 * Përmbajë navigim
 *	Ketë disa kontrolla dhe të mundësojë ndërveprim me ta
