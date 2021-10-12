@@ -4,9 +4,10 @@
 ## Teknologjitë e përdorura
 
 (Verzioni i swift)
+
 (Verzioni i xcode)
 
-##Kërkesat teknike të projektit
+## Kërkesat teknike të projektit
 
 Aplkacioni duhet të:
 
