@@ -24,9 +24,9 @@ Aplkacioni duhet të:
        *	EntryViewController
        *	ViewViewController
 * Mundesojë kalimin nga një view në tjetrën(at)
-      * E plotësuar
+       * E plotësuar
 * Përmbajë navigim
-      * ViewContoller është embeeded në Navigation
+       * ViewContoller është embeeded në Navigation
 *	Ketë disa kontrolla dhe të mundësojë ndërveprim me ta
       *	Add
       *	Save
