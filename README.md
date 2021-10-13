@@ -33,7 +33,7 @@ Aplkacioni duhet të:
 ## Startimi i aplikacionit
 
 
-|  GIF i aplikacionit | GIF i aplikacionit | 
+|  (https://media.giphy.com/media/04qzWcb3TDIKQJsw0D/giphy.gif) | GIF i aplikacionit | 
 | :---: | :---: | 
 |    Shtimi dhe ruajtja e nje ToDo   | Rishikimi dhe fshirja e ToDo |
 
