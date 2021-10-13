@@ -23,12 +23,19 @@ Aplkacioni duhet të:
        *	ViewController
        *	EntryViewController
        *	ViewViewController
-* Mundesojë kalimin nga një view në tjetrën(at)(E plotesuar)
-* Përmbajë navigim(ViewContoller eshte embeeded ne Navigation)
-*	Ketë disa kontrolla dhe të mundësojë ndërveprim me ta(Add, Save, Delete)
-*	Ketë një table view me custom row design(ViewControll permbane table view me rreshta)
+* Mundesojë kalimin nga një view në tjetrën(at)
+      * E plotësuar
+* Përmbajë navigim
+      * ViewContoller është embeeded në Navigation
+*	Ketë disa kontrolla dhe të mundësojë ndërveprim me ta
+      *	Add
+      *	Save
+      *	Delete
+*	Ketë një table view me custom row design
+      *	ViewControll permbane table view me rreshta
 *	Shfaqë mesazhet e ndryshme si alert dialog
-*	Ketë një databazë të brendshme  (Realm Swift)
+*	Ketë një databazë të brendshme  
+      *	Realm Swift
 
 ## Startimi i aplikacionit
 
