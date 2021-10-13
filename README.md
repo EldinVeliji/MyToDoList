@@ -33,12 +33,14 @@ Aplkacioni duhet të:
 ## Startimi i aplikacionit
 
 
-|  ![](https://media.giphy.com/media/04qzWcb3TDIKQJsw0D/giphy.gif) | ![]| 
+|  ![](https://media.giphy.com/media/04qzWcb3TDIKQJsw0D/giphy.gif) | ![](https://media.giphy.com/media/318HbsMvaUYOupE66s/giphy.gif)| 
 | :---: | :---: | 
 |    Shtimi dhe ruajtja e nje ToDo   | Rishikimi dhe fshirja e ToDo |
 
 ### Anëtarët e grupit
 
+[Bleona Zenelaj](https://github.com/BleonaZenelaj)
+
 [Eldin Veliji](https://github.com/EldinVeliji)
 
-[Bleona Zenelaj](https://github.com/BleonaZenelaj)
+
